@@ -23,8 +23,7 @@ The bot operates on two main principles:
 ## Requirements for Effective Operation
 
 - **Fee Tier**: Operator should qualify for the best fee tier on Drift, which involves depositing into the Drift insurance fund.
-Price Differences and Funding: To enhance the likelihood of order fulfillment, operator should be willing to accept minor price differences to enter positions that attract funding payments. (Initial negative position PNL).
-- **Price Differences and Funding**: This bot was designed based on specific versions of the Drift and Phoenix platforms available in Q3 2023. Given the rapid evolution of these platforms, the bot may require updates to remain functional. Operator are advised to upgrade the software versions of Drift and Phoenix to their latest to ensure compatibility.
+- **Price Differences and Funding**: To enhance the likelihood of order fulfillment, operator should be willing to accept minor price differences to enter positions that attract funding payments. (Initial negative position PNL).
 
 ## Version Compatibility
 
